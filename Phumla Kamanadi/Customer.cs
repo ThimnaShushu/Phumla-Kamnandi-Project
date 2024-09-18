@@ -1,11 +1,13 @@
 ﻿using System;
 
-public class Customer
+public class Customer :Person
 {
-    String Name;
-    int ID;
-    String phone
+    //inherit name and ID from Person from Liya
+    //String Name;
+    //int ID;
+    //String phone;
     string guestID;
+    string accountDetails;
 
 
     public Customer(String Name, int guestID, String phone)

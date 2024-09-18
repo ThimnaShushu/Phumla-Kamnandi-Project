@@ -7,6 +7,7 @@ public class Branch
 	string location;
 	string[] facilities;
 	int numberOfRooms;
+
 	double ratePerPerson;
 	double ratePerRoom;
 

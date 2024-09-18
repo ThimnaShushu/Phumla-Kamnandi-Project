@@ -5,6 +5,9 @@ public class Booking
     int BoooingID;
     //string Guest;
     int roomNum;
+    DateTime bookingRange;
+    DateTime checkInDate;
+    DateTime checkOutDate;
     string status;
     int totalCost;
 
