@@ -53,16 +53,16 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Person.cs" />
-    <Compile Include="Presentation\Booking.cs">
+    <Compile Include="Presentation\BookingForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentation\Booking.Designer.cs">
-      <DependentUpon>Booking.cs</DependentUpon>
+    <Compile Include="Presentation\BookingForm.Designer.cs">
+      <DependentUpon>BookingForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Presentation\Booking.resx">
-      <DependentUpon>Booking.cs</DependentUpon>
+    <EmbeddedResource Include="Presentation\BookingForm.resx">
+      <DependentUpon>BookingForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
