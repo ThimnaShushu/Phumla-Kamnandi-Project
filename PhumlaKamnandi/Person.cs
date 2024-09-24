@@ -11,7 +11,7 @@ namespace PhumlaKamnandi
     public class Person
     {
         #region Data Members
-        private string Id, fullName, phone, gender;
+        private string Id, fullName, phone, gender, email;
         private int age;
 
         public enum Type
@@ -62,6 +62,12 @@ namespace PhumlaKamnandi
             get { return age; }
             set { age = value; }
         } 
+
+        public string Email
+        {
+            get { return email; }
+            set { email = value; }
+        }
 
 
         #endregion
