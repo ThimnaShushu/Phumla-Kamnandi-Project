@@ -2,23 +2,23 @@
 
 public class Booking
 {
-    int BoooingID;
+    private int BoooingID;
     //string Guest;
-    int roomNum;
-    DateTime bookingRange;
-    DateTime checkInDate;
-    DateTime checkOutDate;
-    string status;
-    int totalCost;
+    private int roomNum;
+    private DateTime bookingRange;
+    private DateTime checkInDate;
+    private DateTime checkOutDate;
+    private string status;
+    private int totalCost;
 
 
     public Booking(int BookingID, int roomNum, string status, int totalCost)
-	{
+    {
         this.totalCost = totalCost;
         this.BoooingID = BookingID;
         this.roomNum = roomNum;
         this.status = status;
-        
-        
-	}
+
+
+    }
 }
