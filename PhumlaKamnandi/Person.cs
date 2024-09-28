@@ -11,7 +11,7 @@ namespace PhumlaKamnandi
     public class Person
     {
         #region Data Members
-        private string Id, fullName, phone, gender, email;
+        private string Id,name,surname, phone, gender, email;
         private int age;
 
         public enum Type
@@ -32,11 +32,19 @@ namespace PhumlaKamnandi
             set { Id = value; }
         }
 
-        //get and set methods for full name
+        //get and set methods for name
         public string Name
         {
-            get { return fullName; }
-            set { fullName = value; }
+            get { return name; }
+            set { name = value; }
+        }
+
+
+        //get and set methods for name
+        public string Surname
+        {
+            get { return surname; }
+            set { surname = value; }
         }
 
         //get and set methods for telephone number
@@ -78,20 +86,25 @@ namespace PhumlaKamnandi
         public Person()
         {
             Id = "";
-            fullName = "";
+            name = "";
+            surname = "";
             phone = "";
             gender = "";
             age = 0;
+            email = "";
         }
 
+
         //parameterized constructor
-        public Person(string ID, string name, string phone, string gender, int age)
+        public Person(string ID, string name,string surname, string phone, string gender, int age, string email)
         {
             this.Id = ID;
-            this.fullName = name;
+            this.name = name;
+            this.surname = surname;
             this.phone = phone;
             this.gender = gender;
             this.age = age;
+            this.email = email; 
         }
 
 
@@ -102,7 +115,7 @@ namespace PhumlaKamnandi
         public override string ToString()
         {
            //return the persons name and telephone number
-            return fullName + '\n' + phone;
+            return name +" "+ surname+ '\n' + phone;
         }
 
 

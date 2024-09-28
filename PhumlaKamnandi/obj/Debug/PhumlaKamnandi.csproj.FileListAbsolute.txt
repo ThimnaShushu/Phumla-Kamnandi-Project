@@ -17,3 +17,16 @@ C:\Users\liyab\Documents\INF2011\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaK
 C:\Users\liyab\Documents\INF2011\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.csproj.CoreCompileInputs.cache
 C:\Users\liyab\Documents\INF2011\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.exe
 C:\Users\liyab\Documents\INF2011\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.pdb
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\bin\Debug\PhumlaKamnandi.exe.config
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\bin\Debug\PhumlaKamnandi.exe
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\bin\Debug\PhumlaKamnandi.pdb
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.csproj.AssemblyReference.cache
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.Presentation.BookingForm.resources
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.Properties.Resources.resources
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.csproj.GenerateResource.cache
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.csproj.CoreCompileInputs.cache
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.exe
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.pdb
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\bin\Debug\PhumlaKamnandiDatabase.mdf
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\bin\Debug\PhumlaKamnandiDatabase_log.ldf
+\\technet.wf.uct.ac.za\profiledata$\MPPLIY002\Documents\PhumlaKamnandi\PhumlaKamnandi\obj\Debug\PhumlaKamnandi.Presentation.LoginForm.resources
