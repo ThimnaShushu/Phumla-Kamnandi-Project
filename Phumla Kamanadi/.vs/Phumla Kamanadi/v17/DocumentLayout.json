@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|c:\\users\\thimn\\onedrive - university of cape town\\desktop\\inf2011s\\project\\phumla kamnandi\\system solution\\phumla kamanadi\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|solutionrelative:Branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|c:\\users\\thimn\\onedrive - university of cape town\\desktop\\inf2011s\\project\\phumla kamnandi\\system solution\\phumla kamanadi\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|solutionrelative:Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|solutionrelative:Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76240A6D-780A-4B9D-8969-257B58359463}|Phumla Kamanadi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|solutionrelative:Branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D6DE607-0434-4F39-9455-15639EC2BB17}|Solution Items{9D6DE607-0434-4F39-9455-15639EC2BB17}|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "customerDetails.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs",
-              "RelativeDocumentMoniker": "customerDetails.cs",
-              "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs [Design]",
-              "RelativeToolTip": "customerDetails.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T08:58:52.507Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Booking.cs",
               "RelativeDocumentMoniker": "Booking.cs",
               "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Booking.cs",
               "RelativeToolTip": "Booking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:23:51.101Z"
+              "WhenOpened": "2024-09-17T21:23:51.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -74,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Branch.cs",
               "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Branch.cs",
               "RelativeDocumentMoniker": "Branch.cs",
@@ -82,12 +87,61 @@
               "RelativeToolTip": "Branch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:23:04.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:23:04.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs",
+              "RelativeDocumentMoniker": "customerDetails.cs",
+              "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs [Design]",
+              "RelativeToolTip": "customerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:58:52.507Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "customerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs",
+              "RelativeDocumentMoniker": "customerDetails.cs",
+              "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\customerDetails.cs",
+              "RelativeToolTip": "customerDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:24:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\BookingForm.cs",
+              "RelativeDocumentMoniker": "BookingForm.cs",
+              "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\BookingForm.cs",
+              "RelativeToolTip": "BookingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:56:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\BookingForm.cs",
+              "RelativeDocumentMoniker": "BookingForm.cs",
+              "ToolTip": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\BookingForm.cs [Design]",
+              "RelativeToolTip": "BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:48:00.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thimn\\OneDrive - University of Cape Town\\Desktop\\INF2011S\\Project\\Phumla Kamnandi\\System Solution\\Phumla Kamanadi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
