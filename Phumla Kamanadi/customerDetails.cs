@@ -16,5 +16,45 @@ namespace Phumla_Kamanadi
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void customerDetails_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void proceedBookButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void custPhone_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void custID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void custEmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void custAddress_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void custName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

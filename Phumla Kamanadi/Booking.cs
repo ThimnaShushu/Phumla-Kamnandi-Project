@@ -5,7 +5,6 @@ public class Booking
     private int BoooingID;
     //string Guest;
     private int roomNum;
-    private DateTime bookingRange;
     private DateTime checkInDate;
     private DateTime checkOutDate;
     private string status;
@@ -18,7 +17,7 @@ public class Booking
         this.BoooingID = BookingID;
         this.roomNum = roomNum;
         this.status = status;
-
-
     }
 }
+
+
