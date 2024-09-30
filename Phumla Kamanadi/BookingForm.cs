@@ -98,5 +98,40 @@ namespace Phumla_Kamanadi
         {
 
         }
+
+        private void checkInDate_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkOutDate_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numRooms_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numAdults_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numChildren_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void totalPriceTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

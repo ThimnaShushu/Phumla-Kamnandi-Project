@@ -58,6 +58,12 @@
     <Compile Include="customerDetails.Designer.cs">
       <DependentUpon>customerDetails.cs</DependentUpon>
     </Compile>
+    <Compile Include="customerSeach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerSeach.Designer.cs">
+      <DependentUpon>customerSeach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="customerDetails.resx">
       <DependentUpon>customerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerSeach.resx">
+      <DependentUpon>customerSeach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

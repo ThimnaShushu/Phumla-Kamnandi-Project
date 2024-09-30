@@ -17,3 +17,5 @@ C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phuml
 C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phumla Kamnandi\System Solution\Phumla-Kamnandi-Project\Phumla Kamanadi\obj\Debug\Phumla Kamanadi.csproj.CoreCompileInputs.cache
 C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phumla Kamnandi\System Solution\Phumla-Kamnandi-Project\Phumla Kamanadi\obj\Debug\Phumla Kamanadi.exe
 C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phumla Kamnandi\System Solution\Phumla-Kamnandi-Project\Phumla Kamanadi\obj\Debug\Phumla Kamanadi.pdb
+C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phumla Kamnandi\System Solution\Phumla-Kamnandi-Project\Phumla Kamanadi\obj\Debug\Phumla_Kamanadi.customerSeach.resources
+C:\Users\thimn\OneDrive - University of Cape Town\Desktop\INF2011S\Project\Phumla Kamnandi\System Solution\Phumla-Kamnandi-Project\Phumla Kamanadi\obj\Debug\Phumla_Kamanadi.Form2.resources

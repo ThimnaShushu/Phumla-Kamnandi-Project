@@ -69,6 +69,7 @@
             this.checkInDate.Name = "checkInDate";
             this.checkInDate.Size = new System.Drawing.Size(372, 26);
             this.checkInDate.TabIndex = 0;
+            this.checkInDate.ValueChanged += new System.EventHandler(this.checkInDate_ValueChanged);
             // 
             // checkOutDate
             // 
@@ -76,6 +77,7 @@
             this.checkOutDate.Name = "checkOutDate";
             this.checkOutDate.Size = new System.Drawing.Size(381, 26);
             this.checkOutDate.TabIndex = 2;
+            this.checkOutDate.ValueChanged += new System.EventHandler(this.checkOutDate_ValueChanged);
             // 
             // label1
             // 
@@ -103,6 +105,7 @@
             this.numAdults.Name = "numAdults";
             this.numAdults.Size = new System.Drawing.Size(133, 26);
             this.numAdults.TabIndex = 5;
+            this.numAdults.ValueChanged += new System.EventHandler(this.numAdults_ValueChanged);
             // 
             // pictureBox1
             // 
@@ -152,6 +155,7 @@
             this.numChildren.Name = "numChildren";
             this.numChildren.Size = new System.Drawing.Size(133, 26);
             this.numChildren.TabIndex = 11;
+            this.numChildren.ValueChanged += new System.EventHandler(this.numChildren_ValueChanged);
             // 
             // label4
             // 
@@ -190,6 +194,7 @@
             this.button2.TabIndex = 15;
             this.button2.Text = "Cancel";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // timedBox
             // 
@@ -232,6 +237,7 @@
             this.totalPriceTextBox.Name = "totalPriceTextBox";
             this.totalPriceTextBox.Size = new System.Drawing.Size(132, 26);
             this.totalPriceTextBox.TabIndex = 19;
+            this.totalPriceTextBox.TextChanged += new System.EventHandler(this.totalPriceTextBox_TextChanged);
             // 
             // changeImage
             // 
@@ -282,6 +288,7 @@
             this.numRooms.Name = "numRooms";
             this.numRooms.Size = new System.Drawing.Size(133, 26);
             this.numRooms.TabIndex = 24;
+            this.numRooms.ValueChanged += new System.EventHandler(this.numRooms_ValueChanged);
             // 
             // BookingForm
             // 
